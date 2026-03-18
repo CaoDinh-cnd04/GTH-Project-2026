@@ -1,0 +1,4 @@
+# Theo đề: loại bỏ .vscode, node_modules, dist
+.vscode
+node_modules
+dist
